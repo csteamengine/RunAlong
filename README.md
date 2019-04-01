@@ -9,3 +9,5 @@ App for creating running routes that others can try out.
 - Follow another user's run route
 - Voice guidance for the route
 - Compete against friends on the same route
+- Create compatable watchOS app
+  - Run with or without GPS and track heart rate as well
